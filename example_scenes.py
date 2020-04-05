@@ -134,3 +134,7 @@ class UpdatersExample(Scene):
         self.wait()
 
 # See old_projects folder for many, many more
+
+class OneMinute(GraphScene):
+    def construct(self):
+        pass
